@@ -9,6 +9,8 @@
 
 ## 1. Hero
 
+![Everyday adults in their 30s–50s laughing together during a small-group fitness class](../assets/images/hero-group-class.jpg)
+
 ### Headline
 # You didn't fail. The plan did.
 
@@ -48,6 +50,8 @@ That's not a willpower problem. That's a setup problem. And it's fixable.
 ---
 
 ## 3. What Makes This Different
+
+![A supportive group of women smiling and high-fiving together after a workout](../assets/images/community-highfive.jpg)
 
 ### "Okay… but why would this work when nothing else did?"
 
@@ -90,6 +94,8 @@ Before-and-after measurements and photos. Weekly check-ins. When that voice says
 
 ### Everything you need to actually finish — for $297.
 
+![A simple, healthy meal-prep guide — balanced meals portioned in containers](../assets/images/meal-prep.jpg)
+
 For the full 6 weeks, you get:
 
 - **3 small-group coached sessions a week** — real coaching, every workout scaled
@@ -127,11 +133,22 @@ you'll have something to show for it.
 > *[INSERT TESTIMONIAL — focus on accountability / the group keeping them going.]*
 > **— [Name, Age]**
 
-*[INSERT 2–4 BEFORE & AFTER PHOTOS with first names. Real members only.]*
+> ```
+> ┌─────────────────────────────────────────────┐
+> │   BEFORE  &  AFTER  —  PLACEHOLDER          │
+> │                                             │
+> │   Insert 2–4 real member before/after       │
+> │   photos here (with written consent).       │
+> │   Label each with first name + result.      │
+> └─────────────────────────────────────────────┘
+> ```
+> *Placeholder — do not launch with stock photos here. Use real members only.*
 
 ---
 
 ## 6. How It Works
+
+![A friendly, approachable personal trainer smiling in the gym](../assets/images/coach-trainer.jpg)
 
 ### Getting started is simple. Three steps.
 
